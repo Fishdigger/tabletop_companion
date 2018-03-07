@@ -11,7 +11,7 @@ export default () => {
                 py={20}>
                 <NavLink href="/" fontSize={20}>Tabletop Champion</NavLink>
                 <NavLink ml="auto">Character Sheets</NavLink>
-                <NavLink>Dice Roller</NavLink>
+                <NavLink href="/dice">Dice Roller</NavLink>
                 <NavLink>Login</NavLink>
                 <NavLink>Register</NavLink>
             </Toolbar>                    

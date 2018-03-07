@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import Router from "./Router"
-import Nav from "./components/Nav"
+import Nav from "./Nav"
 
 class App extends Component {
   render() {

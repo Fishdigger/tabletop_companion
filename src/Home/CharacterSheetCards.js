@@ -1,5 +1,4 @@
 import React from "react"
-import {Box} from "grid-styled"
 import TypeCard from "./TypeCard"
 
 export default () => {
